@@ -1,6 +1,2 @@
 config:
-<<<<<<< HEAD
   info: springcloud-config-test(master)
-=======
-  info: springcloud-config-test(dev)
->>>>>>> 389330ad74cb12da290323a8b3fdb5e7651faa7b
