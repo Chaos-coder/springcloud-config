@@ -1,2 +1,2 @@
 config:
-  dev: springcloud-config-dev(master)
+  info: springcloud-config-dev(master)
