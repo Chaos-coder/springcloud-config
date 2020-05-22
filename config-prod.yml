@@ -1,2 +1,6 @@
 config:
+<<<<<<< HEAD
   info: springcloud-config-prod(master)
+=======
+  info: springcloud-config-prod(dev)
+>>>>>>> 389330ad74cb12da290323a8b3fdb5e7651faa7b
