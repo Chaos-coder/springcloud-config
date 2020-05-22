@@ -1,2 +1,2 @@
 config:
-  dev: springcloud-config-prod
+  dev: springcloud-config-prod(dev)
