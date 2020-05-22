@@ -1,2 +1,2 @@
-server:
-  port: 9527
+config:
+	dev: springcloud-config-dev
