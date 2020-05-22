@@ -1,2 +1,2 @@
 config:
-  dev: springcloud-config-test(dev)
+  info: springcloud-config-test(dev)
